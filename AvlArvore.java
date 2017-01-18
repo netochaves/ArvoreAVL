@@ -1,8 +1,3 @@
-/**
- * Programa para controle de Arvore AVL como avaliação final
- * Da disciplia de Estrutura de dados II
- * @author José Chaves Neto
- */
 
 package controller;
 
